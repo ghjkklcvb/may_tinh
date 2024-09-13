@@ -1,4 +1,3 @@
-// Buttons.js
 import React from 'react';
 
 const Buttons = ({ handleClick, handleClear, handleDelete, handleEqual }) => {
